@@ -72,7 +72,7 @@ public:
 	}
 };
 
-//runnning all the objects of our classes in main function
+//running all the objects of our classes in main function
 int main(){
 
 	Calculator ep;
